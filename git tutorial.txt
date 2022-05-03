@@ -1,0 +1,8 @@
+Bước đầu tiên là tạo repo trên máy tính (vị trí file đó) của mình :
+-dùng git init
+Bước hai tạo remote để có thể pull (đồng bộ) nó về được:
+-dùng git remote add origin đườnglinkRepo
+Bước ba là pull (đồng bộ) repo trên mạng về máy (lúc này máy sẽ chưa có xuất hiện những file trên mạng):
+-dùng git pull
+Bước bốn là dùng checkout branch để đổi branch rồi nó mới xuất hiện những file của repo trên mạng:
+-dùng git checkout tenBranch (tên Branch nào có trên repo trên mạng)
