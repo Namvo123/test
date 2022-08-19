@@ -1,0 +1,639 @@
+@media only screen and (min-width: 992px) and (max-width: 1280px) { 
+div.cart-collaterals ul.products li.product {
+  float: left;
+  margin-left: 30px;
+  position: relative;
+  width: 160px;
+}
+.coupon input[type="text"] {
+  width: 100px;
+}  
+input[type="submit"], button[type="submit"] {
+  padding: 11px 15px;
+} 
+.col-1, .col-2 {
+  width: 293px;
+}    
+    
+    
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+.user-menu, .header-right ul.list-inline {
+  text-align: center;
+}
+.mainmenu-area ul.navbar-nav li a {
+  font-size: 14px;
+  padding: 15px 10px;
+}  
+.single-promo {margin-bottom: 30px}    
+.single-product-widget, .footer-about-us, .footer-menu {
+  margin-bottom: 60px;
+}
+    
+    
+.product-widget-area .zigzag-bottom {
+  bottom: -50px;
+  height: 100px;
+}
+.product-widget-area {
+  padding-bottom: 90px;
+}   
+    
+.footer-top-area .zigzag-bottom {
+  bottom: -153px;
+  height: 200px;
+}    
+.footer-top-area {
+  padding: 35px 0 125px;
+}  
+div.cart-collaterals ul.products li.product {
+  width: 190px;
+}  
+    
+.col-1, .col-2 {
+  width: 345px;
+}    
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+    
+.user-menu, .header-right ul.list-inline {
+  text-align: center;
+}  
+.logo h1 {
+  font-size: 30px;
+  margin: 20px 0;
+  text-align: center;
+} 
+.shopping-item {
+  float: none;
+  margin-bottom: 20px;
+  margin-top: 5px;
+  text-align: center;
+}  
+.navbar-header {
+  text-align: center;
+}    
+    
+.navbar-toggle {
+    border-color: #fff;
+    float: none;
+    margin: 10px auto;
+}
+.navbar-toggle .icon-bar { background: none repeat scroll 0 0 #333 }  
+.navbar-collapse.collapse.in {
+  background: none repeat scroll 0 0 #f4f4f4;
+  position: relative;
+  z-index: 99;
+} 
+.mainmenu-area ul.navbar-nav li a {
+  padding: 15px;
+}  
+.mainmenu-area {position: relative !important}
+.slide-text {
+  font-size: 16px;
+}  
+.slide-text h2 {
+  font-size: 30px;
+}  
+.readmore {
+  font-size: 16px;
+  padding: 8px 20px;
+}    
+.single-promo {
+  margin-bottom: 30px;
+} 
+.section-title {
+  font-size: 35px;
+}  
+    
+    
+.product-widget-area .zigzag-bottom {
+  bottom: -50px;
+  height: 100px;
+}
+.product-widget-area {
+  padding-bottom: 90px;
+}   
+    
+.footer-top-area .zigzag-bottom {
+  bottom: -153px;
+  height: 200px;
+}    
+.footer-top-area {
+  padding: 35px 0 125px;
+} 
+    
+.single-product-widget, .footer-about-us, .footer-menu {
+  margin-bottom: 60px;
+}  
+    
+.product-wid-title {
+  font-size: 25px;
+}  
+    
+.related-products-wrapper .owl-nav {
+  left: -15px;
+  position: relative;
+  right: inherit;
+  top: 15px;
+}  
+div.cart-collaterals ul.products {
+  margin: 0;
+}  
+div.cart-collaterals ul.products li.product {
+  margin-bottom: 30px;
+  margin-left: 0;
+  width: 100%;
+}  
+div.cart-collaterals ul.products li.product img {width: 100%}  
+    
+.product-bit-title h2 {
+  font-size: 35px;
+  padding: 40px 0;
+}  
+.col2-set {
+  margin-left: 0;
+}    
+.col-1, .col-2 {
+  float: none;
+  margin-left: 0;
+  width: inherit;
+}    
+    
+    
+/* Special */    
+    
+table.shop_table th, table.shop_table td {
+  font-size: 12px;
+  padding: 5px;
+}    
+td.product-thumbnail img {
+  width: 30px;
+} 
+    
+div.quantity input.plus, div.quantity input.minus {
+  display: none;
+}   
+table.shop_table th {
+  font-size: 12px;
+}    
+div.coupon input[type="text"] {
+  width: 100px;
+} 
+.coupon {margin-bottom: 10px}      
+.cross-sells {
+  float: none;
+  margin-bottom: 30px;
+  margin-right: 0;
+  width: 100%;
+}  
+.cart_totals, .cart-collaterals .shipping_calculator {
+  float: none;
+  margin-bottom: 40px;
+  width: 100%;
+}  
+    
+    
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+    
+  
+    
+}
+
+/* CONTACT*/
+.total .h{
+  display: inline-table;
+}
+.total .contact{
+  width:49%;
+  margin:30px 70px 30px 200px;
+}
+.total .infor{
+  width:30%;
+}
+.contact .col-6{
+  display: inline-table;
+  width:47%;
+}
+.contact .left_side{
+  margin-right: 44px;
+}
+/**chinh khoang cach cho tat ca ptu trong contact*/
+.contact .form-control{
+  margin-bottom: 22px;
+}
+/* nut*/
+.contact .submit_button{
+  float:right;
+  background: #5a88ca;
+  color:white;
+  border:1px solid white;
+  border-radius: 4px;
+  padding:10px 15px 10px 15px;
+}
+.contact .submit_button:hover{
+  background-color: #222;
+}
+/**chinh contact info*/
+.infor{
+  border:1px solid #7272724f;
+  padding-left: 15px;
+  height:235px;
+}
+.infor .title{
+  text-align: center;
+  font-size: 21px;
+  color: #5a88ca;
+}
+
+.infor p{
+  margin-bottom: 0;
+  color: #696763;
+  font-size: 16px;
+  line-height: 25px;
+}
+
+
+/**REGISTER ( SIGN UP)*/
+p, h6{
+  padding:0px;
+  margin:0px;
+}
+.total_register{
+  width:600px;
+  height:835px;
+  border:16px solid #e1e1e1;
+  text-align: center;
+  margin:0 auto;
+  margin-top: 40px;
+  margin-bottom: 75px;
+}
+.total_register .account {
+  width:100%;
+  height:234px;
+  margin-bottom: 20px;
+}
+.total_register .account .title_account{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 32px;
+  color:#5a88ca;
+  /* font-weight: 800; */
+}
+.total_register .account .text{
+  width:500px;
+  height:40px;
+  margin-bottom:15px;
+  background: #f9f9f9;
+  border-radius: 5px;
+  border: 1px solid #ece4e4;
+}
+.total_register .account .showPass{
+  text-align: left;
+  margin-left: 36px;
+  margin-top: -6px;
+}
+/**Other*/
+.total_register .Other {
+  overflow: hidden;
+  height:115px;
+
+}
+.total_register .Other .DateBirth{
+  float:left;
+  width:50%;
+}
+.total_register .Other .Gender{
+  float:right;
+  width: 50%;
+}
+/**dateBirth*/
+.total_register .Other .DateBirth .title_Date{
+  margin-right: 115px;
+  margin-bottom: 13px;
+  font-size: 13px;
+  color:#5a88ca;
+  font-weight: 800;
+}
+.total_register .Other .DateBirth #dateBirth{
+  margin-left: 42px;
+}
+.total_register .Other .cell{
+  width:65px;
+  height:50px;
+  background: #f9f9f9;
+  border-radius: 5px;
+  border: 1px solid #ece4e4;
+}
+.total_register .Other .DateBirth #dateBirth .year{
+  width:90px;
+}
+/**gender*/
+.total_register .Other .Gender .title_Gender{
+  margin-right: 210px;
+  margin-bottom: 13px;
+  font-size: 13px;
+  color:#5a88ca;
+  font-weight: 800;
+}
+
+.total_register .Other .Gender #gender{
+  margin-right: 34px;
+  width:255px;
+}
+
+.total_register .Other .Gender #gender .m{
+  width:235px;
+  height:50px;
+  background: #f9f9f9;
+  border-radius: 5px;
+  border: 1px solid #ece4e4;
+}
+/**payment*/
+.total_register .payment{
+  height:170px;
+}
+.total_register .payment .title_payment{
+  margin-right: 385px;
+  margin-bottom: 13px;
+  font-size: 13px;
+  color:#5a88ca;
+  font-weight: 800;
+}
+.total_register .payment .card_number{
+  width:499px;
+  height:50px;
+  margin-bottom: 13px;
+  background: #f9f9f9;
+  border-radius: 5px;
+  border: 1px solid #ece4e4;
+}
+.total_register .payment .text2{
+  display: inline-table;
+}
+.total_register .payment .cvc{
+  width:251px;
+  height:50px;
+  background: #f9f9f9;
+  border-radius: 5px;
+  border: 1px solid #ece4e4;
+}
+.total_register .payment .date{
+  margin-left: 4px;
+}
+.total_register .payment .date .pix_text{
+  width:120px;
+  height:50px;
+  background: #f9f9f9;
+  border-radius: 5px;
+  border: 1px solid #ece4e4;
+}
+/**last*/
+.total_register .last{
+  text-align: left;
+  margin-left: 42px;
+  color:#d0d0d0;
+}
+.total_register .last .term{
+  margin-bottom: 13px;
+  font-size: 13px;
+  color:#5a88ca;
+  font-weight: 800;
+}
+.total_register .last .signUp{
+  margin-top: 30px;
+  text-align: center;
+  margin-right: 55px;
+}
+.total_register .last .signUp .supButton{
+  padding:8px 85px;
+  background-color: #5a88ca;
+  color:white;
+  border-radius: 5px;
+  border: 1px solid #ece4e4;
+  font-size: 22px;
+}
+
+.total_register .last .signUp .supButton:hover{
+  background-color:#222;
+}
+
+.total_register .last .signUp .gLogin{
+  font-size: 21px;
+  font-weight: 100;
+  line-height: 130px;
+}
+
+/**LOGIN*/
+.total_login{
+  width:600px;
+  height:470px;
+  border:16px solid #e1e1e1;
+  text-align: center;
+  margin:0 auto;
+  margin-top: 40px;
+  margin-bottom: 75px;
+}
+.total_login .account {
+  width:100%;
+  height:234px;
+}
+.total_login .account .title_account{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 32px;
+  color:#5a88ca;
+  /* font-weight: 800; */
+}
+.total_login .account .text{
+  width:500px;
+  height:40px;
+  margin-bottom:15px;
+  background: #f9f9f9;
+  border-radius: 5px;
+  border: 1px solid #ece4e4;
+}
+.total_login .account p{
+  text-align: left;
+  margin-left:38px;
+}
+.total_login .sButton{
+  padding:8px 100px;
+  background-color: #5a88ca;
+  color:white;
+  border-radius: 5px;
+  border: 1px solid #ece4e4;
+  font-size: 22px;
+}
+.total_login .sButton:hover{
+  background-color: #222;
+}
+
+.total_login .last{
+  margin-top: 9px;
+}
+.total_login .last .term{
+  font-size: 16px;
+}
+
+/**checkout*/
+.checkout .woocommerce-shipping-fields details{
+    padding: .5em .5em 0;
+    margin-bottom: 30px;
+}
+
+.checkout .woocommerce-shipping-fields summary{
+  color: #5a88ca;
+  font-size: 20px;
+  text-transform: uppercase;
+  background: none repeat scroll 0 0 #f4f4f4;
+  margin-bottom: 20px;
+  padding: 15px;
+  width:400px;
+}
+
+.checkout .woocommerce-shipping-fields summary:hover{
+  color:#17a78b;
+  text-decoration: underline;
+}
+
+/**MY ACCOUNT*/
+p, h6{
+  padding:0px;
+  margin:0px;
+}
+.total_myAccount{
+  width:600px;
+  height:925px;
+  border:16px solid #e1e1e1;
+  text-align: center;
+  margin:0 auto;
+  margin-top: 40px;
+  margin-bottom: 75px;
+}
+.total_myAccount .account {
+  width:100%;
+  height:488px;
+  margin-bottom: 20px;
+}
+.total_myAccount .account .avatar{
+  margin-top: 20px;
+  width:150px;
+  border-radius: 50%;
+}
+.total_myAccount .text{
+  width:500px;
+  height:40px;
+  margin-bottom:24px;
+  background: #f9f9f9;
+  border-radius: 5px;
+  border: 1px solid #ece4e4;
+}
+
+/*ADDRESS DETAIL*/
+.total_myAccount .first , .second{
+  overflow: hidden;
+  width: 538px;
+  margin: auto;
+  margin-bottom: 32px;
+}
+
+.total_myAccount .first .city , .second .zCode{
+  float: left;
+  width: 50%;
+}
+.total_myAccount .first .state, .second .country{
+  float:right;
+  width:50%;
+}
+.total_myAccount .text_address{
+  width:230px;
+  background: #f9f9f9;
+  border-radius: 5px;
+  border: 1px solid #ece4e4;
+}
+
+/*PASSWORD*/
+.total_myAccount .passwordChange .showPass{
+  text-align: left;
+  margin:-6px 0px 30px 36px;
+}
+
+/* ALL P*/
+.total_myAccount .mainP{
+  text-align: left;
+  margin-left:36px;
+}
+
+.total_myAccount .subP{
+  text-align: left;
+  margin-left:22px;
+}
+
+/*SAVE BUTTON*/
+.total_myAccount .lastButton{
+  text-align: left;
+  margin-left:35px;
+}
+
+.total_myAccount .lastButton button{
+  padding: 7px 15px 7px 15px;
+  background: #5a88ca;
+  color: white;
+  border: 1px solid white;
+  border-radius: 4px;
+}
+
+.total_myAccount .lastButton button:hover{
+  background-color: #222;
+}
+
+/** SEARCH */
+/*THANH SEARCH */
+.col-left{
+  float:left;
+  width:30%;
+}
+
+
+.col-right{
+  float:right;
+  width:70%;
+}
+
+.search{
+  float:left;
+  height:124px;
+  width:75%;
+  padding:40px 0px 40px 115px;
+}
+
+/*TRANG SEARCH*/
+.search-area{
+  padding: 40px 0 130px 350px;
+}
+
+.title_search{
+  padding:36px 0px 0px 65px;
+  font-size:32px;
+}
+
+
+.checkout-button.button.alt.wc-forward {
+  padding: 11px;
+  background: #5a88ca;
+  color: white;
+  font-size: 17px;
+  line-height: 41px;
+}
+
+.selected{
+  background: #5a88ca !important;
+  color: white !important;
+}
